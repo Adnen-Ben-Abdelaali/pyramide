@@ -7,3 +7,7 @@ Le reposistory contient deux fichiers :
 index.html qui représente le point d'entrée du projet .
 
 main.js, le fichier javascript contenant le code javascript du projet .  
+
+Lien en production du projet pyramide : 
+
+https://adnen-ben-abdelaali.github.io/pyramide/
